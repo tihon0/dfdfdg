@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Rubik+Beastly&family=Titan+One&display=swap');
+
+h1, h2, h4, h5 {
+  font-family: 'Titan One', cursive;
+  font-weight: 700;
+  background-color: #008080;
+  color: white;
+}
+p {
+  font-family: 'Aclonica', sans-serif;
+  font-weight: 500;
+   background-color: #FFE4C4;
+  color: #800000;
+}
+
+a {
+   font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: 100;
+  letter-spacing: 2px;
+   background-color: #FFE4C4;
+  color: #800000;
+}
+
+h3 { 
+   font-family: 'Aclonica', sans-serif;
+  font-weight: 500;
+   background-color: #FFE4C4;
+  color: #800000;
+}
+body{
+background-image: url(https://res.cloudinary.com/andreyshkirya/image/upload/v1643462347/1613702177_28-p-fon-dlya-prezentatsii-odnotonnii-svetlii-29_ufjsnb.jpg);
+ background-size: cover;
+  background-attachment: fixed; 
+}
